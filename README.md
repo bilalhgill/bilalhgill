@@ -1,6 +1,31 @@
 ![logo](https://github.com/bilalhgill/bilalhgill/blob/main/bilal%20hameed%20gill%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Bilal Hameed</h1>
-<h3 align="center">I am passionate Full-stack developer with expertise in Jamstack | Gatsby | NextJS | Strapi | Sanity.io | Tailwind | React-native | ReactJS | Graphql | HeadlessCMS | Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | any open source projects. With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an opportunity to help the developer community with articles and tips on honing the craft. Over 5+ years of IT experience which includes 1+ years of Experience as a UI/UX Designer and 2+ years of Experience as Front End Developer. Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, Mobile Development.</h3>
+<h4 align="center">I am passionate Full-stack developer with expertise in Jamstack | Gatsby | NextJS | Strapi | Sanity.io | Tailwind | React-native | ReactJS | Graphql | HeadlessCMS | Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | any open source projects. With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an opportunity to help the developer community with articles and tips on honing the craft. Over 5+ years of IT experience which includes 1+ years of Experience as a UI/UX Designer and 2+ years of Experience as Front End Developer. Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, Mobile Development.</h4>
+<h5  align="left">
+  My first priority to provide a 100% satisfaction to my client and good quality work.
+WHY CHOOSE ME?
+→ Good Communication Skills. → I Believe in Long term Business Relationships Only. → Continued support after the delivery of the final product → 100% Satisfaction guaranteed
+Love to work on JAMstack
+Front-end
+•	React, NextJs, Typescript, Hooks, Gulp, Django.
+HeadlessCMS
+•	Sanity, Prismic, Craft, Strapi, Storyblok, Agility, DatoCMS, Sanity.io, Contentful, NetlifyCMS, Headless Wordpress, Headless Shopify.
+BackEnd
+•	NodeJs, Express JS
+CSS
+•	Tailwind, Bootstrap, pure css/saas.
+Databases
+•	MySQL, postgres, mongo, dynamoDB.
+Deploy and CDN
+•	Vercel, Netlify, Gatsby Cloud, Heroku, Firebase, AWS.
+Other tools and skills
+•	Git, AWS, Web Scraping, Python.
+UI/UX Design
+•	Figma, Adobe PS, XD.
+Looking to add additional services to for your business ? Let's Talk!
+CONTACT ME TODAY Thank you!
+
+</h5>
 
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
