@@ -22,7 +22,6 @@ Love to work on JAMstack </span>
 •	Git, AWS, Web Scraping, Python.
 </br>UI/UX Design
 •	Figma, Adobe PS, XD.
-</br>Looking to add additional services to for your business ? Let's Talk!
 </br>CONTACT ME TODAY Thank you!
 
 </p>
