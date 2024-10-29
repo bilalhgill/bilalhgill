@@ -1,4 +1,4 @@
-![logo](https://github.com/bilalhgill/bilalhgill/blob/main/bilal%20hameed%20gill%20banner.jpg)
+![logo](https://github.com/bilalhgill/bilalhgill/blob/main/5.jpg)
 <h1 align="center">Hi 👋, I'm Bilal Hameed (Cloud Native Gen-AI Developer)</h1>
 <span align="center">I am passionate Full-stack developer with expertise in Jamstack | Django | Python | Typescipt | FastAPI | Azure | Kubernetes | Langchain | NextJS | Strapi | Sanity.io | Tailwind | React-native | ReactJS | Graphql | HeadlessCMS | Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | any open source projects. </br>With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an opportunity to help the developer community with articles and tips on honing the craft. </br>Over 5+ years of IT experience which includes 1+ years of Experience as a UI/UX Designer and 2+ years of Experience as Front End Developer. Over the last 3 years, </br>I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS,</span></br>
 <p  align="left">
